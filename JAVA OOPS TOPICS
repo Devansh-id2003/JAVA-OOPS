@@ -1,0 +1,190 @@
+Module 1 – Java Foundations
+Session 1 & 2 – Java 8 Basics
+
+Overview & Features of Java
+
+Scope of Variables
+
+Object-Oriented Concepts (Intro)
+
+JVM Architecture Overview
+
+JDK Tools – javac, java, jdb, javadoc
+
+Structure of a Java Class
+
+Importing Packages
+
+Object Reference vs Primitive Variables
+
+Reading / Writing Object Fields
+
+Lab → Simple Calculator Program (compile & test)
+
+🧠 Module 2 – Core Language Elements
+Session 3
+
+Object Lifecycle – creation, reassignment, garbage collection (new, finalize)
+
+Wrapper Classes – Boolean, Double, Integer
+
+Operators – Unary, Binary, Arithmetic, Assignment, Compound, Relational, Logical, Equality
+
+Control Statements – if, if-else, for, while, switch, do-while, break, continue, ?:
+
+Lab → Calculator Program continued with control statements
+
+🧱 Module 3 – Data & Encapsulation
+Session 4
+
+Packages and Classpath
+
+Arrays (one-D & multi-D)
+
+String, StringBuilder, StringBuffer
+
+Methods & Encapsulation – Access Modifiers, Method Overloading, Passing Data
+
+Constructors & Immutable Classes
+
+Lab → Build Emp class and run its instance
+
+🧩 Module 4 – Inheritance & Polymorphism
+Session 5
+
+Class Inheritance (extends)
+
+Abstract Classes
+
+Inner Classes (Member, Static, Anonymous)
+
+Interfaces and Implementation Classes
+
+Polymorphism – Object vs Reference, Casting, Virtual Methods, Overriding
+
+Lab → Create Inner Class for Manager + Anonymous Inner Class for Tech Member
+
+⚙️ Module 5 – Exception Handling
+Session 6
+
+Basics of Exception Handling
+
+Types – Checked, Unchecked, Errors
+
+try, catch, finally, throw, throws, Nested try
+
+Built-in & Custom Exceptions
+
+Lab → User-defined Exception for Employee existence check
+
+🧰 Module 6 – Advanced Language Features
+Session 7
+
+Enumerations (enum)
+
+Autoboxing & Unboxing
+
+Annotations (@Override, @Deprecated, etc.)
+
+Lab → Boxing/Unboxing and Wrapper Class methods
+
+🧮 Module 7 – Core Java Packages & Collections
+Session 8
+
+java.util Overview
+
+java.lang Overview
+
+Lab → Store Employee Objects using java.util structures
+
+Session 9 & 10
+
+Generics – Type Parameters, Bounded Types
+
+Collections Framework Overview
+
+Interfaces – Collection, List, Set, Map
+
+Classes – ArrayList, HashSet, HashMap, TreeMap, Iterators
+
+Lab → Apply Collections Framework to Employee application
+
+💡 Module 8 – Functional Programming (Java 8)
+Session 11
+
+Functional Programming Overview
+
+Functional Interfaces – Predicate, Function, Consumer, Supplier
+
+java.util.function package
+
+Lambda Expressions
+
+Functional Programming impact on Collections
+
+🔄 Module 9 – Streams & Date/Time API
+Session 12
+
+Streams vs Collections
+
+java.util.stream.Stream API
+
+Primitive Streams – IntStream, LongStream, DoubleStream
+
+Stream Operations – filter, map, reduce, sort, flatMap, anyMatch, count, boxing
+
+Java 8/17 Date-Time API
+
+Lab → Process Bank Accounts Collection using Streams
+
+🧵 Module 10 – Multithreading & Concurrency
+Session 13 & 14
+
+Threads in Java – creation via Thread class & Runnable
+
+Thread Lifecycle
+
+Thread Groups
+
+Synchronization & Inter-Thread Communication
+
+Advantages and Issues of Concurrency
+
+📂 Module 11 – File I/O & Persistence
+Session 15
+
+java.io Package
+
+Files – Reading & Writing
+
+Byte Streams and Character Streams
+
+Object Persistence & Serialization
+
+Lab → Persist Employee and Manager Objects to File
+
+🧭 Module 12 – Reflection & JVM Details
+Session 16
+
+JVM Architecture (Deep Dive)
+
+Java Reflection API
+
+Discovering Class Name, Superclass, Interfaces
+
+Listing Methods of an Implemented Interface
+
+Lab → Use Reflection to print Class hierarchy and methods
+
+🗄️ Module 13 – Database Connectivity
+Session 17 (2T + 4L)
+
+JDBC API Introduction
+
+JDBC Architecture & Drivers
+
+Connection, Statement, PreparedStatement, ResultSet Interfaces
+
+Executing SQL Queries and Updating Data
+
+Handling Exceptions in JDBC
